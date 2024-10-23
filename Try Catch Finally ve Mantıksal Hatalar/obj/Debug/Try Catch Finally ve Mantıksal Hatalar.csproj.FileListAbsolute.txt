@@ -1,0 +1,7 @@
+C:\Users\Dilber Taştan\source\repos\patikadev_c#\Try Catch Finally ve Mantıksal Hatalar\bin\Debug\Try Catch Finally ve Mantıksal Hatalar.exe.config
+C:\Users\Dilber Taştan\source\repos\patikadev_c#\Try Catch Finally ve Mantıksal Hatalar\bin\Debug\Try Catch Finally ve Mantıksal Hatalar.exe
+C:\Users\Dilber Taştan\source\repos\patikadev_c#\Try Catch Finally ve Mantıksal Hatalar\bin\Debug\Try Catch Finally ve Mantıksal Hatalar.pdb
+C:\Users\Dilber Taştan\source\repos\patikadev_c#\Try Catch Finally ve Mantıksal Hatalar\obj\Debug\Try Catch Finally ve Mantıksal Hatalar.csproj.AssemblyReference.cache
+C:\Users\Dilber Taştan\source\repos\patikadev_c#\Try Catch Finally ve Mantıksal Hatalar\obj\Debug\Try Catch Finally ve Mantıksal Hatalar.csproj.CoreCompileInputs.cache
+C:\Users\Dilber Taştan\source\repos\patikadev_c#\Try Catch Finally ve Mantıksal Hatalar\obj\Debug\Try Catch Finally ve Mantıksal Hatalar.exe
+C:\Users\Dilber Taştan\source\repos\patikadev_c#\Try Catch Finally ve Mantıksal Hatalar\obj\Debug\Try Catch Finally ve Mantıksal Hatalar.pdb
